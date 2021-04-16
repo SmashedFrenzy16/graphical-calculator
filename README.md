@@ -1,1 +1,1 @@
-# graphical-calculator
+# Graphical Calculator
